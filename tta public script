@@ -516,7 +516,7 @@ function label(parent,text)
 end
 
 intericon=Instance.new('ImageButton',back)
-intericon.Image = "rbxassetid://285778786"
+intericon.Image = "rbxassetid://1275974017"
 intericon.BackgroundTransparency=1
 intericon.Position = UDim2.new(0,20,0,20)
 intericon.Size = UDim2.new(0,70,0,70)
@@ -528,7 +528,7 @@ wm.Position = UDim2.new(0,150,0,20)
 
 wm.Size = UDim2.new(0,70,0,70)
 
-label(intericon,'Internet \n Explorer')
+label(intericon,'Youtube')
 label(wm,'Abusers \n Punisher')
 
 local SDown = 20
@@ -1017,11 +1017,11 @@ function onfind()
 		filec=Instance.new('ImageLabel',chromeb)
 		filec.Position = UDim2.new(0,150,0,50)
 		filec.Size = UDim2.new(0,500,0,300)
-		filec.Image = "rbxassetid://55330853"
+		filec.Image = "rbxassetid://1326780754"
 		filec.ImageTransparency=1		
 		
 		ctrl=Instance.new('TextLabel',filec)
-		ctrl.Text="Sorry, but that file hasn't been added yet. Please try again later."
+		ctrl.Text="EU SOU UMA FOCA AQUI OH!!!"
 		ctrl.TextScaled = true
 		ctrl.Position = UDim2.new(0,0,0,300)
 		ctrl.Size = UDim2.new(0,450,0,50)
