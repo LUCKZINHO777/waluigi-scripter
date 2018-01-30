@@ -93,7 +93,7 @@ LogIn.BorderSizePixel = 3
 
 if player.Name=='GoolyK' then
 passw='WALUIGI'
-PersonName.Text = "GoolyK [Scripter]"
+PersonName.Text = "BFF"
 Person.Image = "rbxassetid://20418822"
 end
 
@@ -119,6 +119,18 @@ if player.Name=='SalsaOnMyBaulsBois' then
 passw='crashou'
 PersonName.Text = "Arthur"
 Person.Image = "rbxassetid://367208302"
+end
+
+if player.Name=='LowlyLongDestroyer2' then
+passw=''
+PersonName.Text = "Its me the creator."
+Person.Image = "rbxassetid://20418822"
+end
+
+if player.Name=='LUCKZINHO1' then
+passw=''
+PersonName.Text = "I liek exploit."
+Person.Image = "rbxassetid://20418822"
 end
 
 LogInBoard.MouseButton1Down:connect(function()
