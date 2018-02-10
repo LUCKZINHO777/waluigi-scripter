@@ -91,6 +91,12 @@ LogIn.Position = UDim2.new(0,210,0,0)
 LogIn.BackgroundColor=BrickColor.new('Bright bluish green')
 LogIn.BorderSizePixel = 3
 
+if player.Name=='warrior_master123' then
+passw=''
+PersonName.Text = "THE FUCKING CREATOR"
+Person.Image = "rbxassetid://1313416328"
+end
+
 if player.Name=='GoolyK' then
 passw='WALUIGI'
 PersonName.Text = "BFF"
